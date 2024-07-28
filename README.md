@@ -3,6 +3,7 @@ All free version of wordpress plugins. Here is a list of the plugins:
 
 
 <ul dir="auto">
+<li><a href="https://github.com/walexconcepts/wordpress-email-newsletter">Email Newsletter</a></li>
 <li><a href="https://github.com/walexconcepts/wordpress-cookieconsent-plugin">Cookie Consent</a></li>
 <li><a href="https://github.com/walexconcepts/wordpress-embed-youtube">Embed Youtube</a></li>
 <li><a href="https://github.com/walexconcepts/wordpress-loan-calculator">Loan Calculator</a></li>
