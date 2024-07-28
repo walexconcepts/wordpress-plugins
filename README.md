@@ -1,5 +1,5 @@
 # wordpress-plugins
-Free version of wordpress plugins. Here is a list of the plugins:
+All free version of wordpress plugins. Here is a list of the plugins:
 
 
 <ul dir="auto">
