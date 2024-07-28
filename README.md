@@ -10,6 +10,7 @@ All free version of wordpress plugins. Here is a list of the plugins:
 <li><a href="https://github.com/walexconcepts/wordpress-welcome-box">Welcome Box</a></li>
 <li><a href="https://github.com/walexconcepts/wordpress-woocommerce-brand">Woocommerce Brand</a></li>
 <li><a href="https://github.com/walexconcepts/wordpress-feature-box">Feature Box</a></li>
+<li><a href="https://github.com/walexconcepts/wordpress-floating-cart">Floating Cart</a></li>
 </ul>
 
 
